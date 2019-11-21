@@ -1,0 +1,47 @@
+p {
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+  }
+
+#topDiv{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+#middleDiv{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+
+.bottomDiv{
+    position: fixed;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;    
+}
+
+#nameDiv{
+    width: 25%;
+    float: left;
+}
+
+#copyR {
+    text-align: center;
+}
+
+.topTabs{
+    width: 10%;
+    float: right;
+}
+/* div {
+    padding: 20px;
+    /* margin-bottom: 20px; */
+    /* background: #FFA500; */
+  } */
+
