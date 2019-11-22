@@ -10,6 +10,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     height: 70px;
+    background-color: #ffffff;
 }
 
 #middleDiv{
@@ -22,7 +23,7 @@ p {
 
 #topSection{
     width: 100%;
-    background-color: lightblue;
+    background-color:#ffffff;
     position: fixed;
     top: 0;
     left: 0;    
