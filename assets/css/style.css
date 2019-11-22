@@ -1,3 +1,4 @@
+
 p {
     font-size: 24px;
     line-height: 32px;
@@ -9,6 +10,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     padding: 40px;
+    background-color: teal;
 }
 
 #middleDiv{
@@ -16,14 +18,19 @@ p {
     margin-left: auto;
     margin-right: auto;
     padding: 40px;
+    background-color: white;
+     
+    
 }
 
-.bottomDiv{
+#bottomDiv{
     position: fixed;
     bottom: 0;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 40px;    
+    width: 100%;
+    padding: 40px; 
+    border-top: 8px solid #4aaaa5;
+    background-color: gray;
+      
 }
 
 #nameDiv{
@@ -39,9 +46,13 @@ p {
     width: 10%;
     float: right;
 }
+
+body  {
+    background-image: url("../images/checkerboard-cross.png");
+
+}
 /* div {
     padding: 20px;
     /* margin-bottom: 20px; */
     /* background: #FFA500; */
   } */
-
