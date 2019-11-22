@@ -9,8 +9,7 @@ p {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
-    padding: 40px;
-    background-color:#4aaaa5;
+    height: 70px;
 }
 
 #middleDiv{
@@ -21,16 +20,24 @@ p {
     background-color:#ffffff; 
 }
 
+#topSection{
+    width: 100%;
+    background-color: lightblue;
+    position: fixed;
+    top: 0;
+    left: 0;    
+}
+
 #middleSection{
-    margin-top: 100px;
-    margin-bottom: auto;
+    margin-top: 90px;
 }
 
 #bottomDiv{
     position: fixed;
     bottom: 0;
     width: 100%;
-    padding: 40px; 
+    left: 0;    
+    height: 70px;
     border-top: 8px solid #4aaaa5;
     background-color: gray;
       
@@ -39,6 +46,10 @@ p {
 #nameDiv{
     width: 25%;
     float: left;
+    background-color:#4aaaa5;
+    height: 70px;
+    text-align: center; 
+    vertical-align: middle;
 }
 
 #copyR {
