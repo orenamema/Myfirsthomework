@@ -26,9 +26,14 @@ p {
     position: fixed;
     top: 0;
     left: 0;    
+    border-bottom: 3px solid #EEEEEE;
+
 }
 
 #middleSection{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;    
     margin-top: 90px;
 }
 
@@ -70,3 +75,12 @@ body  {
     /* margin-bottom: 20px; */
     /* background: #FFA500; */
   } */
+
+#descText{
+    overflow: auto;
+}
+
+.orenPic {
+    float: left;
+    padding: 10px;
+  }
