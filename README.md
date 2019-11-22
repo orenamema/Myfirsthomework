@@ -3,9 +3,9 @@
 This is my first homework
 
 We will have 3 pages
-1. Page 1
-2. Page 2
-3. Page 3
+1. About
+2. Contact
+3. Portfolio
 
 I’ve worked on this first assignment using the different tools that were available to us such as the course content, the online videos, W3Schools and our instructors. I was able to create 3 pages linked to each other using VS Code. I’ve spent most of the time on the first page since it was the one that would be the base of the website.
 
