@@ -1,8 +1,12 @@
 
+h1 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #ffffff;
+}
 p {
-    font-size: 24px;
-    line-height: 32px;
-    color: #333;
+    /* font-size: 24px; */
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
   }
 
 #topDiv{
@@ -31,6 +35,9 @@ p {
 
 }
 
+#theAbout {
+    color: #4aaaa5
+}
 #middleSection{
     width: 960px;
     margin-left: auto;
@@ -45,7 +52,7 @@ p {
     left: 0;    
     height: 70px;
     border-top: 8px solid #4aaaa5;
-    background-color: gray;
+    background-color:#666666;
       
 }
 
@@ -60,11 +67,19 @@ p {
 
 #copyR {
     text-align: center;
+    bottom: 0;
+    font-size: 12px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #ffffff
 }
 
 .topTabs{
     width: 10%;
     float: right;
+    margin-top: 25px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+
 }
 
 body  {
@@ -79,6 +94,7 @@ body  {
 
 #descText{
     overflow: auto;
+
 }
 
 .orenPic {
