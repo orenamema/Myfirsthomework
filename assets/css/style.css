@@ -19,6 +19,7 @@ p {
 
 #middleDiv{
     width: 960px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;
     padding: 40px;
@@ -40,6 +41,7 @@ p {
 }
 #middleSection{
     width: 960px;
+    height: 400px;
     margin-left: auto;
     margin-right: auto;    
     margin-top: 90px;
