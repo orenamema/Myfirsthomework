@@ -70,7 +70,8 @@ p {
     bottom: 0;
     font-size: 12px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    color: #ffffff
+    color: #ffffff;
+    margin-top: 50px;
 }
 
 .topTabs{
